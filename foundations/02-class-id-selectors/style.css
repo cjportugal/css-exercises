@@ -1,0 +1,8 @@
+p.odd {
+    background-color: #FFC0CB;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+} 
+
+p.odd.three {
+    font-size: 36px;
+}
